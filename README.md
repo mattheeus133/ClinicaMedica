@@ -1,6 +1,6 @@
 # Sistema Clínica Médica 
 
-![ClinicaMedica](imagens/LogoClinica.png)
+![ClinicaMedica]([imagens/LogoClinica.png](https://github.com/mattheeus133/ClinicaMedica/blob/main/Imagens/LogoClinica.png))
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
